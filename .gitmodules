@@ -1,0 +1,9 @@
+[submodule "liblcd"]
+	path = liblcd
+	url = https://github.com/USA-RedDragon/liblcd
+[submodule "librelay"]
+	path = librelay
+	url = https://github.com/USA-RedDragon/librelay
+[submodule "libdht"]
+	path = libdht
+	url = https://github.com/USA-RedDragon/libdht
